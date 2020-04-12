@@ -4,4 +4,6 @@ hi i am here to add some changes in one.txt
 so here to change in terminal iiiiiiiiiii
 so here is a change in mybranch to make a conflict
 ok so i will change here in mybranch of feature
+so here is a change in mybranch to make a conflict
+hi i am here to add some changes in one.txt
 
