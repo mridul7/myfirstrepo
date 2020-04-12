@@ -1,1 +1,3 @@
+i am in terminal master 1
+i am in online master 1
 i am in online mybranch 1
